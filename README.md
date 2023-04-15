@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 📚 Formado Análise e Desenvolvimento de Sistemas - Centro Universitário do Distrito Federal
+- 📚 Formado Análise e Desenvolvimento de Sistemas - Centro Universitário do Distrito Federal.
 
 - 👩‍💻 Entusiasta da linguagem JavaScript, estou me dedicando, mas não me limitando somente a ela.
 
